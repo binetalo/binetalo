@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Binetou LO
 - 👀 I’m interested in AIMS
-- 🌱 I’m currently learning pYTHON
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
